@@ -4,6 +4,13 @@ layout: default
 
 ## Schedule!
 
-TBU
+### Friday
+Things to do!
+
+### Saturday
+Time to eat
+
+### Sunday
+Time to leave :)
 
 [back](./)
