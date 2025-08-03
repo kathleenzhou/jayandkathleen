@@ -1,5 +1,5 @@
 # jay & kathleen
-*mawwiage is what bwings us togethew today* 
+[Weekend schedule](./schedule.html)
 
 ## tl;dr
 what is a wedding but an excuse to hang out? we are celebrating our mawwiage by forcing(?) our friends & family upstate for a weekend of hanging out, food, and festivities. 
